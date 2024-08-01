@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "minecraft-protocol": "1.47.0",
+    "gradient-string": "2.0.2"
+  }
+}

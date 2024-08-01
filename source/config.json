@@ -1,0 +1,9 @@
+{
+  "accountname": "Steve",
+  "password": "",
+  "host": "mc.hypixel.net",
+  "port": 25565,
+  "proxyhost": "127.1.1.1",
+  "proxyport": 25565,
+  "version": "1.16.5"
+}
