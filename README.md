@@ -37,7 +37,7 @@
 
 # Installation
 * First install [Node.js](https://nodejs.dev)
-* Download last [Release](https://github.com/YTFort/MIOXY-BOOSTED/releases) or `git clone https://github.com/YTFort/24-Aternos.git`
+* Download last [Release](https://github.com/YTFort/MIOXY-BOOSTED/releases) or `git clone https://github.com/YTFort/MIOXY-BOOSTED.git`
 * `cd MIOXY BOOSTED`
 * `npm install`
 * Edit config.json
