@@ -1,7 +1,7 @@
 ![Header](/IMG/logo.png)
-<a href="https://github.com/YTFort/24-Aternos/stargazers"><img src="https://badgen.net/github/stars/YTFort/24-Aternos" alt="GitHub stars"/></a>
-<a href="https://github.com/YTFort/24-Aternos"><img src="https://badgen.net/github/forks/YTFort/24-Aternos" alt="GitHub forks"/></a>
-<a href="https://github.com/YTFort/24-Aternos/releases"><img src="https://badgen.net/github/assets-dl/YTFort/24-Aternos" alt="GitHub download"/></a>
+<a href="https://github.com/YTFort/24-Aternos/stargazers"><img src="https://badgen.net/github/stars/YTFort/MIOXY-BOOSTED" alt="GitHub stars"/></a>
+<a href="https://github.com/YTFort/24-Aternos"><img src="https://badgen.net/github/forks/YTFort/MIOXY-BOOSTED" alt="GitHub forks"/></a>
+<a href="https://github.com/YTFort/24-Aternos/releases"><img src="https://badgen.net/github/assets-dl/YTFort/MIOXY-BOOSTED" alt="GitHub download"/></a>
 # MIOXY BOOSTED
 `MIOXY BOOSTED - Minecraft proxy server that allows you to log on to the same server with the same nickname, but from different gaming sessions`
 
