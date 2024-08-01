@@ -31,6 +31,7 @@
  * Beautiful interface
  * It works on pirated and licensed servers
  * If you add a server to the list of servers, it will look like the original you are joining
+ * [Soon...](https://github.com/YTFort/MIOXY-BOOSTED/discussions/2)
 
 ## Video review and guide on the program
  * not yet
