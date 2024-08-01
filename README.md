@@ -1,7 +1,7 @@
 ![Header](/IMG/logo.png)
-<a href="https://github.com/YTFort/24-Aternos/stargazers"><img src="https://badgen.net/github/stars/YTFort/MIOXY-BOOSTED" alt="GitHub stars"/></a>
-<a href="https://github.com/YTFort/24-Aternos"><img src="https://badgen.net/github/forks/YTFort/MIOXY-BOOSTED" alt="GitHub forks"/></a>
-<a href="https://github.com/YTFort/24-Aternos/releases"><img src="https://badgen.net/github/assets-dl/YTFort/MIOXY-BOOSTED" alt="GitHub download"/></a>
+<a href="https://github.com/YTFort/MIOXY-BOOSTED/stargazers"><img src="https://badgen.net/github/stars/YTFort/MIOXY-BOOSTED" alt="GitHub stars"/></a>
+<a href="https://github.com/YTFort/MIOXY-BOOSTED"><img src="https://badgen.net/github/forks/YTFort/MIOXY-BOOSTED" alt="GitHub forks"/></a>
+<a href="https://github.com/YTFort/MIOXY-BOOSTED/releases"><img src="https://badgen.net/github/assets-dl/YTFort/MIOXY-BOOSTED" alt="GitHub download"/></a>
 # MIOXY BOOSTED
 `MIOXY BOOSTED - Minecraft proxy server that allows you to log on to the same server with the same nickname, but from different gaming sessions`
 
@@ -37,7 +37,7 @@
 
 # Installation
 * First install [Node.js](https://nodejs.dev)
-* Download last [Release](https://github.com/YTFort/24-Aternos/releases) or `git clone https://github.com/YTFort/24-Aternos.git`
+* Download last [Release](https://github.com/YTFort/MIOXY-BOOSTED/releases) or `git clone https://github.com/YTFort/24-Aternos.git`
 * `cd MIOXY BOOSTED`
 * `npm install`
 * Edit config.json
