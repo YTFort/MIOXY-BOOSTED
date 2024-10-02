@@ -34,7 +34,7 @@
  * [Скоро...](https://github.com/YTFort/MIOXY-BOOSTED/discussions/2)
 
 ## Видеообзор и руководство по программе
- * Пока что нет
+ * [Youtube](https://www.youtube.com/watch?v=_FqpR6GQqsM)
 
 # Установка
 * Скачайте последнюю версию [Node.js](https://nodejs.dev)
